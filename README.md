@@ -46,6 +46,9 @@ _https://drive.google.com/open?id=1VwCP69CIkUA82ie0dcBAwo4NLiBk8iC7_
 
 primeiramente temos uma versão do notebook no repositório mas é altamente recomendado que você rode ele usando o google colab.
 
-(link para o google colab)[https://colab.research.google.com/drive/1yMCVHbqm3Z-ctamXyqetve6Vpf-sjoRv?usp=sharing]
+link para o google colab
+__https://colab.research.google.com/drive/1yMCVHbqm3Z-ctamXyqetve6Vpf-sjoRv?usp=sharing]__
 
-para rodar esse notebook é necessário importar o arquivo com os shapes para o seu workspace do notebook (você pode baixar ele nesse repositório também).
+para rodar esse notebook é necessário importar o arquivo com os shapes para o seu workspace do notebook (você pode baixar ele nesse repositório também) e o dataset com os dados já processados
+__https://drive.google.com/file/d/1HMf_-Ht_oX5oalIRzrmlzzGJyAiuo4AT/view?usp=sharing__
+
