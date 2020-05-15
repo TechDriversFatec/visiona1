@@ -1,6 +1,5 @@
 # Artificial Inteligence
-#
-##Equipe
+## Equipe
 ### Bruno Henrique, Iago Cardial, Matheus Vilela, Mayra Bernardes e Willyan Antunes
 #
 ### Entrega 2
