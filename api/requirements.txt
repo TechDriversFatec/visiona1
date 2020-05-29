@@ -4,3 +4,4 @@ tensorflow
 keras
 rasterio
 rasterio[s3]
+boto3
