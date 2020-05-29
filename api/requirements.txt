@@ -1,2 +1,6 @@
 flask
 requests
+tensorflow
+keras
+rasterio
+rasterio[s3]
