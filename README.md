@@ -1,7 +1,6 @@
 # Artificial Inteligence
 
-### Equipe
-
+### Equipe 4
 ### Bruno Henrique, Iago Cardial, Matheus Vilela, Mayra Bernardes e Willyan Antunes
 #
 
