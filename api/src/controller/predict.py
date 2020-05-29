@@ -2,6 +2,7 @@ from flask import jsonify
 import string
 import random
 import service.neurallNeworkServices as nn
+import service.uploadToAws as upload
 import rasterio
 import numpy as np
 
@@ -55,7 +56,8 @@ def predict(request):
     name = randomString()
     saveRaster(name, img_out, profile["height"],
                profile["width"], profile["crs"], profile["transform"])
-    return jsonify({"aoaa": "asdad"})
+    upload.upload_to_aws(f'tmp/{name}.tiff', 'visionabucket', f'{name}.tiff')
+    return jsonify({"status": True, "name": name})
 
 
 def downloadRaster(name, profile=None):
