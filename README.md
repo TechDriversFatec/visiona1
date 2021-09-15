@@ -25,3 +25,4 @@ __https://colab.research.google.com/drive/1yMCVHbqm3Z-ctamXyqetve6Vpf-sjoRv?usp=
 Para rodar esse notebook é necessário importar o arquivo com os shapes para o seu workspace do notebook (você pode baixar ele nesse repositório também) e o dataset com os dados já processados
 __https://drive.google.com/file/d/1HMf_-Ht_oX5oalIRzrmlzzGJyAiuo4AT/view?usp=sharing__
 
+# visiona1
